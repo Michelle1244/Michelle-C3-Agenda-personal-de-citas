@@ -36,6 +36,6 @@
 
 
 
-  ***Justificación Técnica:*** EEstas mejoras incrementan la usabilidad y permiten acceder a la información de manera más eficiente, optimizando la experiencia del usuario.
+  ***Justificación Técnica:*** Estas mejoras incrementan la usabilidad y permiten acceder a la información de manera más eficiente, optimizando la experiencia del usuario.
   
   El sistema deberia ser mas optimizado y util para los usuarios
