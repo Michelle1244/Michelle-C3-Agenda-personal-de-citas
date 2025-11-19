@@ -32,7 +32,7 @@ Definen los atributos y parámetros que la aplicación debe mantener para garant
 * **RNF3 – Portabilidad :** El sistema debe poder ejecutarse en computadoras de escritorio y dispositivos móviles.
 
 
-## Casos de prueba (Sin tabla)
+## Casos de prueba
 
 * **PU-01**
 
