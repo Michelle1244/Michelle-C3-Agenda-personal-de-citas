@@ -79,13 +79,13 @@ Definen los atributos y parámetros que la aplicación debe mantener para garant
   * **Accion:** Evaluar el funcionamiento del módulo de sincronización y aplicar las correcciones necesarias para optimizar el intercambio de datos, garantizando una actualización adecuada en tiempo real.
   * **Justificacion:** Atender este inconveniente es esencial para preservar la consistencia de la información y asegurar que el usuario cuente con sus citas correctamente sincronizadas en todos sus dispositivos.
 
-* **Problema:** Se han detectado inconsistencias durante el proceso de sincronización entre dispositivos, lo que ocasiona que ciertas modificaciones realizadas por el usuario no se actualicen adecuadamente.
+* **Problema:**  La aplicación no ofrece opciones avanzadas de filtrado para buscar citas antiguas, lo que dificulta al usuario encontrar información específica rápidamente
   
 
  
-  * **Tipo de Mantenimiento:** Mantenimiento Correctivo
-  * **Accion:** Analizar el componente encargado de la sincronización y aplicar correcciones en la gestión de datos en tiempo real, asegurando que la transmisión y actualización de la información se ejecuten sin errores.
-  * **Justificacion:** Corregir este comportamiento es fundamental para garantizar la integridad de los datos y que las citas se mantengan coherentes en todos los equipos donde se utilice la aplicación.
+  * **Tipo de Mantenimiento:** Mantenimiento Perfectivo
+  * **Accion:** Implementar nuevos filtros como búsqueda por palabra clave, categoría, estado de la cita y fecha exacta.
+  * **Justificacion:** Estas mejoras incrementan la usabilidad y permiten acceder a la información de manera más eficiente, optimizando la experiencia del usuario.
 
 
 ## Reflexion sobre el control de versiones 
