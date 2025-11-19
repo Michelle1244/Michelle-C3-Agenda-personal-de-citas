@@ -36,38 +36,38 @@ Definen los atributos y parámetros que la aplicación debe mantener para garant
 
 * **PU-01**
 
- *  Tipo: Unitario
- *  Requerimiento: RF1
- *  Datos: Usuario ingresa la fecha y la hora de la cita
- *  Resutado esperado: La cita se registra correctamente
- *  Resultado obtenido: **Correcto**
+  *  Tipo: Unitario
+  *  Requerimiento: RF1
+  *  Datos: Usuario ingresa la fecha y la hora de la cita
+  *  Resutado esperado: La cita se registra correctamente
+  *  Resultado obtenido: **Correcto**
 
 
 * **PU-02**
 
- *  Tipo: Unitario
- *  Requerimiento: RF3
- *  Datos: Modifica de **Cita medica** a **Cita medica con analisis**
- *  Resutado esperado: Cita actualizada con nuevos datos
- *  Resultado obtenido: **Correcto**
+  *  Tipo: Unitario
+  *  Requerimiento: RF3
+  *  Datos: Modifica de **Cita medica** a **Cita medica con analisis**
+  *  Resutado esperado: Cita actualizada con nuevos datos
+  *  Resultado obtenido: **Correcto**
 
 
 * **PV-01**
 
- *  Tipo: Validacion
- *  Requerimiento: RF2
- *  Datos: Usuario consulta sus citas
- *  Resutado esperado: Se muestran todas las citas ordenadas por fecha.
- *  Resultado obtenido: **Correcto**
+  *  Tipo: Validacion
+  *  Requerimiento: RF2
+  *  Datos: Usuario consulta sus citas
+  *  Resutado esperado: Se muestran todas las citas ordenadas por fecha.
+  *  Resultado obtenido: **Correcto**
 
 
 * **PV-02**
 
- *  Tipo: Validacion
- *  Requerimiento: RF5
- *  Datos: Ingresa **Hora:** y **tiempo a recordar antes de la cita:**
- *  Resutado esperado: Se muestra notificación de recordatorio 10 min antes
- *  Resultado obtenido: **Correcto**
+  *  Tipo: Validacion
+  *  Requerimiento: RF5
+  *  Datos: Ingresa **Hora:** y **tiempo a recordar antes de la cita:**
+  *  Resutado esperado: Se muestra notificación de recordatorio 10 min antes
+  *  Resultado obtenido: **Correcto**
 
 
 ## Tipos de propuesta de mantenimiento 
